@@ -34,3 +34,11 @@ create table Campaign (
     subcategory_id varchar(200) not null,
     foreign key (subcategory_id) references Subcategory(subcategory_id)
 );
+
+
+select * from Contacts;
+select * from Category;
+select * from Subcategory;
+select * from Campaign;
+
+
