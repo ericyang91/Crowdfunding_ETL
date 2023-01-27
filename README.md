@@ -65,24 +65,30 @@ One-to-many relationship: A straight line with a short, perpendicular line with 
 </br>
 PostgreSQL and pgAdmin were used to create a database for the project and <a href="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/crowdfunding_db_schema.sql"> <b>four tables</b></a> corresponding to each of the cleaned up data using <a href="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Queries.sql"> <b>queries</b></a>. These data were then imported using pgAdmin into the tables ready for use:
 </br>
+</br>
 <p align="center">
   <img src="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Images/pgadmin.jpg" alt="pgadmin"/>
 </p>
 </br>
 Below are the screenshots of the completed tables:
 </br>
+</br>
 <p align="center">
   <img src="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Images/pg1.jpg" alt="pg1"/>
 </p>
+</br>
 <p align="center">
   <img src="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Images/pg2.jpg" alt="pg2"/>
 </p>
+</br>
 <p align="center">
   <img src="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Images/pg3.jpg" alt="pg3"/>
 </p>
+</br>
 <p align="center">
   <img src="https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Images/pg4.jpg" alt="pg4"/>
 </p>
+</br>
 
 
 
