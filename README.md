@@ -99,4 +99,6 @@ Below are the screenshots of the completed tables:
 
 `pgAdmin 4 v.6.15`
 `postgreSQL v.14.6`
-`Visual Studio 1.74.1`
+`Visual Studio v.1.74.1`
+`Python v.3.9.12`
+`Pandas v.1.4.2`
