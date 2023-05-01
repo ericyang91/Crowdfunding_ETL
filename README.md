@@ -1,5 +1,5 @@
 # Crowdfunding ETL
-
+![main](https://github.com/ericyang91/Crowdfunding_ETL/blob/main/Images/main.jpg)
 ## Purpose:
 
   The purpose of this project is to extract, transform, and load (hence, ETL) data related to crowdfunding using both Python and SQL. Pandas and Python are used to extract and transform raw data, and PostgreSQL and pgAdmin were used to load clean data that is ready for analysis.
@@ -94,10 +94,10 @@ Below are the screenshots of the completed tables:
 
 
 ## Languages and Libraries:
-</br>
 
-`pgAdmin 4 v.6.15`
-`postgreSQL v.14.6`
-`Visual Studio v.1.74.1`
-`Python v.3.9.12`
-`Pandas v.1.4.2`
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v14.0-blue)](https://www.postgresql.org/)
+[![pgAdmin](https://img.shields.io/badge/pgAdmin-v5.7-blue)](https://www.pgadmin.org/)
+[![Python](https://img.shields.io/badge/python-v3.10-blue)](https://www.python.org/downloads/release/python-310/)
+[![Pandas](https://img.shields.io/badge/pandas-v1.3.3-blue)](https://pandas.pydata.org/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-v1.57-blue)](https://code.visualstudio.com/)
+[![ERD](https://img.shields.io/badge/ERD-diagram-orange)](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
